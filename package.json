@@ -1,0 +1,27 @@
+{
+  "name": "roblox-js-server",
+  "version": "1.2.0",
+  "description": "An example server that uses the roblox-js module.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ROBLOXStudio/roblox-js-server.git"
+  },
+  "author": "Joshua Lanese <froastj@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "roblox-js": "^2.0.0",
+    "validator": "^6.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ROBLOXStudio/roblox-js-server/issues"
+  },
+  "homepage": "https://github.com/ROBLOXStudio/roblox-js-server"
+}
